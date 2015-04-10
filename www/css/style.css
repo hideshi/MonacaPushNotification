@@ -1,0 +1,12 @@
+.sticky-footer
+{
+    position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#content
+{
+    overflow: scroll;
+    height: 360px;
+}
